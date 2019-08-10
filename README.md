@@ -1,5 +1,5 @@
-# Kansas Linux Fest 2019
+# [Kansas Linux Fest 2019](https://kansaslinuxfest.org/schedule/)
 
-## Location: Wichita State University (Ablah Hall)
+### Location: Wichita State University (Ablah Hall)
 
-## Date: Aug 9-11 2019
+#### Date: Aug 9-11 2019

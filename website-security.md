@@ -1,8 +1,8 @@
-# title: web security: improvements for any website
-# speaker: RB Woods
-# date: 08102019
+### title: web security: improvements for any website
+### speaker: RB Woods
+### date: 08102019
 
-## notes:
+##### notes:
 - email address/password
 - password hashing might not be done right
 - target hack: thermostat hack (on same network) => point of sale system
