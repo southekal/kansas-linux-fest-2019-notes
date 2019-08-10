@@ -1,5 +1,5 @@
 ### title: bibisco - open source tool for telling stories
-### speaker: [stack](https://kansaslinuxfest.org/stack/
+### speaker: [stack](https://kansaslinuxfest.org/stack/)
 ### date: 08102019
 
 #### notes:
