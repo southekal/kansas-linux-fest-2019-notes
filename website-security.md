@@ -1,5 +1,5 @@
 ### title: web security: improvements for any website
-### speaker: RB Woods
+### speaker: [RB Woods](https://kansaslinuxfest.org/rb-woods/)
 ### date: 08102019
 
 ##### notes:
