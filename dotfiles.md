@@ -1,5 +1,5 @@
 ### title: dotfiles
-### speaker: neal fultz
+### speaker: [neal fultz](https://kansaslinuxfest.org/neal-fultz/)
 ### date: 08102019
 
 #### notes:
